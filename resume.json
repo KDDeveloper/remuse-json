@@ -1,0 +1,11 @@
+{
+    "name": "Kushal Davda",
+    "age": 25,
+    "qualification":"['BMS','Fullstack web development-Guvi']",
+    "Hobbies":"['Gaming','Writing Poetry','coding','spirituality']",
+    "expirience":{
+        "digital marketing sales":"3 months",
+        "textile industry" : "1 year",
+        "web developer":"1 year"
+    }
+}
